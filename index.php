@@ -25,6 +25,8 @@ echo "<!DOCTYPE html>";
             <br>
             is samen durven groeien
         </div>
+
+        <div class="slideshow"></div>
     </body>
 
     <footer>
