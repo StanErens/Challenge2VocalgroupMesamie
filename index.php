@@ -1,20 +1,24 @@
 <?php 
 
 echo "<!DOCTYPE html>";
-
+include_once("includes/navbar.php");
 ?>
 
 <html>
 
     <header>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/style.css">
 
         <title>Vocalgroup Mes Amie</title>
 
     </header>
 
     <body>
-        
+     
+    
+    <br />
+    <br />
+    <br />
         <div class="welkom">Vocalgroup Mes Amie heet u welkom</div>
         <div class="intro">
             is met passie muziek maken
