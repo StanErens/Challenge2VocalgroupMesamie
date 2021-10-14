@@ -5,7 +5,7 @@ echo "<!DOCTYPE html>";
 <html>
 <link rel="stylesheet" href="css/navbar.css">
 
-<div id="image"><img src="Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" width="17%"></div>
+<div id="image"><a href="index.php"><img src="Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" width="17%"></a></div>
 <div id="navbar">
     <div class="navbar">
         <a href="index.php">Home</a>
@@ -44,7 +44,7 @@ echo "<!DOCTYPE html>";
           </div>
           <div class="navbar">
             <a href="#home">Contact</a>
-            <a href="#news">Login</a>
+            <a href="login/login.php">Login</a>
           </div>
       </div>
 </div>
