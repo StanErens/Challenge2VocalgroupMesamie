@@ -8,22 +8,25 @@ body{
 #navbar{
     position:absolute;
     right: 0%;
-    top: 8.5%;
+    top: 9%;
     background-size: 100%;
     background-color: #bd0926;
-    height:7%;
+    height:6.5%;
     width: 82%;
     
 }
 
 .navbar a {
     float: left;
-    font-size: 205%;
+    font-size: 180%;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 8px 16px;
     text-decoration: none;
-  }
+    position: relative;
+    top: 0%;
+
+}
   
   .dropdown {
     float: left;
@@ -31,11 +34,11 @@ body{
   }
   
   .dropdown .dropbtn {
-    font-size: 205%;
+    font-size: 180%;
     border: none;
     outline: none;
     color: white;
-    padding: 14px 16px;
+    padding: 8px 16px;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
