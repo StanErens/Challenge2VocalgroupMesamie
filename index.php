@@ -20,7 +20,8 @@ include_once("includes/navbar.php");
     <br />
     <br />
         <div class="blok1">
-        <div class="welkom">Vocalgroup Mes Amie heet u welkom</div>
+        <div class="welkom">Vocalgroup Mes Amie heet u welkom
+            <img src="images/Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" class="img"></div>
         <div class="intro">
             is met passie muziek maken
             <br>
