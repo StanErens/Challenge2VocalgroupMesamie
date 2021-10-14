@@ -21,7 +21,7 @@ include_once("includes/navbar.php");
     <br />
         <div class="blok1">
         <div class="welkom">Vocalgroup Mes Amie heet u welkom
-            <img src="images/Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" class="img"></div>
+            <img src="images/aktie68.png" class="img"></div>
         <div class="intro">
             is met passie muziek maken
             <br>
@@ -64,7 +64,7 @@ include_once("includes/navbar.php");
 </div>
 <br>
 
-<div style="text-align:center">
+<div style="text-align:left">
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 

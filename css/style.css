@@ -13,6 +13,7 @@ body {
     font-size: 20px;
 }
 .img {
+    margin: 20px;
     width: 240px;
     float:right;
 }
@@ -25,6 +26,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
+  top: 200px;
   float: left;
   max-width: 1000px;
   position: relative;
