@@ -37,34 +37,34 @@ include_once("includes/navbar.php");
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
-  <img src="images/01.jpg" style="width:100%">
+  <img src="images/01.jpg" style="width:75%">
   <div class="text">Heidag 2020</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
-  <img src="images/02.jpg" style="width:100%">
+  <img src="images/02.jpg" style="width:75%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 5</div>
-  <img src="images/03.jpg" style="width:100%">
+  <img src="images/03.jpg" style="width:75%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
-  <img src="images/04.jpg" style="width:100%">
+  <img src="images/04.jpg" style="width:75%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 5</div>
-  <img src="images/05.jpg" style="width:100%">
+  <img src="images/05.jpg" style="width:75%">
 </div>
 
 </div>
 <br>
 
-<div style="text-align:left">
+<div class="dots">
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
