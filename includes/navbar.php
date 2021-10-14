@@ -5,7 +5,6 @@ echo "<!DOCTYPE html>";
 <html>
 <link rel="stylesheet" href="css/navbar.css">
 
-
 <div id="image"><a href="index.php"><img src="Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" width="17%"></a></div>
 
 <div id="navbar">
