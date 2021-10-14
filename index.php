@@ -19,6 +19,7 @@ include_once("includes/navbar.php");
     <br />
     <br />
     <br />
+        <div class="blok1">
         <div class="welkom">Vocalgroup Mes Amie heet u welkom</div>
         <div class="intro">
             is met passie muziek maken
@@ -28,6 +29,7 @@ include_once("includes/navbar.php");
             is streven naar uitdagingen
             <br>
             is samen durven groeien
+        </div>
         </div>
 
         <div class="slideshow"></div>

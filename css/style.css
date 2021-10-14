@@ -1,6 +1,10 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+.blok1 {
+    margin-left: 20px;
+    margin-top: 55px;
+}
 .welkom {
     font-weight: bold;
     font-size: 40px;
