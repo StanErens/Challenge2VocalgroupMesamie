@@ -26,6 +26,7 @@ img {vertical-align: middle;}
 
 /* Slideshow container */
 .slideshow-container {
+  padding: 5px;
   top: 200px;
   float: left;
   max-width: 1000px;
