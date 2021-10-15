@@ -72,9 +72,20 @@ include_once("includes/navbar.php");
   <span class="dot"></span> 
 </div>
 
+    <div class="news">
+        <h1>Laatste Nieuws</h1>
+    </div>
+
+    <div class="huldiging">
+        <h1>Huldiging Jaarvergadering</h1>
+    </div>
+
     </body>
 
     <footer>
+        <div class="footer">
+        Copyright &copy; Vocalgroup Mes Amie
+        </div>
 
     </footer>
     <script>
