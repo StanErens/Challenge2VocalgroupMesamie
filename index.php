@@ -64,7 +64,7 @@ include_once("includes/navbar.php");
 </div>
 <br>
 
-<div class="dots">
+<div class="dots" style="text-align:center">
   <span class="dot"></span> 
   <span class="dot"></span> 
   <span class="dot"></span> 
