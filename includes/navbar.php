@@ -38,13 +38,13 @@ echo "<!DOCTYPE html>";
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="#">Foto's</a>
-              <a href="#">Filmpjes</a>
-              <a href="#">Nieuwsbrieven</a>
+              <a href="media/fotos.php">Foto's</a>
+              <a href="media/filmpjes.php">Filmpjes</a>
+              <a href="media/nieuwsbrieven.php">Nieuwsbrieven</a>
             </div>
           </div>
           <div class="navbar">
-            <a href="#home">Contact</a>
+            <a href="media/contact.php">Contact</a>
             <a href="login/login.php">Login</a>
           </div>
       </div>

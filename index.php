@@ -83,9 +83,7 @@ include_once("includes/navbar.php");
     </body>
 
     <footer>
-        <div class="footer">
-        Copyright &copy; Vocalgroup Mes Amie
-        </div>
+      <?php include_once("includes/footer.php");?>
 
     </footer>
     <script>
