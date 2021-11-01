@@ -7,7 +7,7 @@
         <link rel="stylesheet" href="login.css">
 	</head>
 	<body>
-		<img src="./Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png">
+		<div id="foto"><img src="../images/Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" width="250px"></div>
 		<div class="login">
 			<h1>Login</h1>
 			<form action="authenticate.php" method="post">

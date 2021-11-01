@@ -1,13 +1,13 @@
 <?php 
 
 echo "<!DOCTYPE html>";
-include_once("includes/navbar.php");
+include_once("../includes/navbar.php");
 ?>
 
 <html>
 
     <header>
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="../css/style.css">
 
         <title>Vocalgroup Mes Amie</title>
 
@@ -21,7 +21,7 @@ include_once("includes/navbar.php");
     <br />
         <div class="blok1">
         <div class="welkom">Vocalgroup Mes Amie heet u welkom
-            <img src="images/aktie68.png" class="img"></div>
+            <img src="../images/aktie68.png" class="img"></div>
         <div class="intro">
             is met passie muziek maken
             <br>
@@ -37,28 +37,28 @@ include_once("includes/navbar.php");
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 5</div>
-  <img src="images/01.jpg" style="width:75%">
+  <img src="../images/01.jpg" style="width:75%">
   <div class="text">Heidag 2020</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 5</div>
-  <img src="images/02.jpg" style="width:75%">
+  <img src="../images/02.jpg" style="width:75%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 5</div>
-  <img src="images/03.jpg" style="width:75%">
+  <img src="../images/03.jpg" style="width:75%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 5</div>
-  <img src="images/04.jpg" style="width:75%">
+  <img src="../images/04.jpg" style="width:75%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">5 / 5</div>
-  <img src="images/05.jpg" style="width:75%">
+  <img src="../images/05.jpg" style="width:75%">
 </div>
 
 </div>
@@ -83,7 +83,7 @@ include_once("includes/navbar.php");
     </body>
 
     <footer>
-      <?php include_once("includes/footer.php");?>
+      <?php include_once("../includes/footer.php");?>
 
     </footer>
     <script>

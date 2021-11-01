@@ -3,24 +3,24 @@
 echo "<!DOCTYPE html>";
 ?>
 <html>
-<link rel="stylesheet" href="css/navbar.css">
+<link rel="stylesheet" href="../css/navbar.css">
 
-<div id="image"><a href="index.php"><img src="Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" width="17%"></a></div>
+<div id="image"><a href="../index/index.php"><img src="../Vocalgroup_Mes_Amie_v01_DEF_KLEUR_CONTOUREN (1).png" width="17%"></a></div>
 
 <div id="navbar">
     <div class="navbar">
-        <a href="index.php">Home</a>
+        <a href="../index/index.php">Home</a>
         <div class="dropdown">
             <button class="dropbtn">Over Ons
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="overons/algemeen.php">Algemeen</a>
-              <a href="overons/bestuur.php">Bestuur</a>
-              <a href="overons/dirigent.php">Dirigent</a>
-              <a href="overons/combo.php">Combo</a>
-              <a href="overons/lidworden.php">Lid Worden</a>
-              <a href="overons/repetitie.php">Repetitie</a>
+              <a href="../overons/algemeen.php">Algemeen</a>
+              <a href="../overons/bestuur.php">Bestuur</a>
+              <a href="../overons/dirigent.php">Dirigent</a>
+              <a href="../overons/combo.php">Combo</a>
+              <a href="../overons/lidworden.php">Lid Worden</a>
+              <a href="../overons/repetitie.php">Repetitie</a>
             </div>
           </div> 
         <div class="dropdown">
@@ -28,9 +28,9 @@ echo "<!DOCTYPE html>";
             <i class="fa fa-caret-down"></i>
           </button>
           <div class="dropdown-content">
-            <a href="#">2020</a>
-            <a href="#">2021</a>
-            <a href="#">2022</a>
+            <a href="../#">2020</a>
+            <a href="../#">2021</a>
+            <a href="../#">2022</a>
           </div>
         </div> 
         <div class="dropdown">
@@ -44,8 +44,8 @@ echo "<!DOCTYPE html>";
             </div>
           </div>
           <div class="navbar">
-            <a href="media/contact.php">Contact</a>
-            <a href="login/login.php">Login</a>
+            <a href="../media/contact.php">Contact</a>
+            <a href="../login/login.php">Login</a>
           </div>
       </div>
 </div>
