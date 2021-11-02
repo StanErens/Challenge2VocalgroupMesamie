@@ -45,7 +45,7 @@ echo "<!DOCTYPE html>";
           </div>
           <div class="navbar">
             <a href="../media/contact.php">Contact</a>
-            <a href="../login/login.php">Login</a>
+            <a href="../login/logout.php">Logout</a>
           </div>
       </div>
 </div>
