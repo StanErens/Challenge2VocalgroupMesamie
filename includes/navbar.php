@@ -38,9 +38,9 @@ echo "<!DOCTYPE html>";
               <i class="fa fa-caret-down"></i>
             </button>
             <div class="dropdown-content">
-              <a href="media/fotos.php">Foto's</a>
-              <a href="media/filmpjes.php">Filmpjes</a>
-              <a href="media/nieuwsbrieven.php">Nieuwsbrieven</a>
+              <a href="../media/fotos.php">Foto's</a>
+              <a href="../media/filmpjes.php">Filmpjes</a>
+              <a href="../media/nieuwsbrieven.php">Nieuwsbrieven</a>
             </div>
           </div>
           <div class="navbar">
