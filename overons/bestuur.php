@@ -1,12 +1,9 @@
 <?php 
 
 echo "<!DOCTYPE html>";
-<<<<<<< Updated upstream
 include_once("../includes/navbar.php");
 ?>
-=======
-include_once("includes/navbar.php");
-?>
+
 <html>
     <head>
 
@@ -25,4 +22,3 @@ In de aanloop naar dit concert organiseren we natuurlijk onze welbekende kerstwa
 Wij willen ons de komende tijd focussen op het organiseren en/of deelnemen aan kleine projecten/concerten. Zoals Mes Amie on tour zingen op verscheidene locaties, zoals in 2019 in Leuven. Samenwerken met andere koren en/of muziekverenigingen bijvoorbeeld het kerstconcert met Harmonie Heer vooruit. </p>
     </body>
 </html>
->>>>>>> Stashed changes

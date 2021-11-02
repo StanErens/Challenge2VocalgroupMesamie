@@ -1,12 +1,9 @@
 <?php 
 
 echo "<!DOCTYPE html>";
-<<<<<<< Updated upstream
 include_once("../includes/navbar.php");
 ?>
-=======
-include_once("includes/navbar.php");
-?>
+
 <html>
     <head>
 
@@ -20,4 +17,3 @@ include_once("includes/navbar.php");
         Naast zingen worden er regelmatig leuke activiteiten georganiseerd door onze activiteitencommissie o.a. : Escaperoom, barbecue avonden, wandelingen/speurtochten, quiz avond en karaoke. We nemen actief deel aan verschillende evenementen door bijvoorbeeld bardienst te draaien tijdens een carnavalsbal, garderobe beheer, meewerken tijdens de Iron man en uithelpen bij verenigingen.</p>
     </body>
 </html>
->>>>>>> Stashed changes
